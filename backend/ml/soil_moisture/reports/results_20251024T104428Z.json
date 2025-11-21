@@ -1,0 +1,16 @@
+[
+  {
+    "model": "RandomForest",
+    "rmse": 0.7872730290562556,
+    "mae": 0.33097279411764713,
+    "cv_rmse": 2.7991911557335163,
+    "model_path": "./ml/soil_moisture\\randomforest_model_20251024T104352Z.joblib"
+  },
+  {
+    "model": "GradientBoosting",
+    "rmse": 0.8312599469026318,
+    "mae": 0.40701289735197377,
+    "cv_rmse": 2.6848751469501466,
+    "model_path": "./ml/soil_moisture\\gradientboosting_model_20251024T104427Z.joblib"
+  }
+]

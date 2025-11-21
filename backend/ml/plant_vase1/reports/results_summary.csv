@@ -1,0 +1,3 @@
+model,rmse,mae,cv_rmse,model_path
+RandomForest,0.0078613686152511,0.004052912621359394,0.09968359198751972,./ml/plant_vase1\randomforest_model_20251024T104109Z.joblib
+GradientBoosting,0.012480679937550488,0.00873673215070881,0.08125427108835995,./ml/plant_vase1\gradientboosting_model_20251024T104114Z.joblib

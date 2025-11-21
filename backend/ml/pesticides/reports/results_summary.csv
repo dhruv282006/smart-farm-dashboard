@@ -1,0 +1,3 @@
+model,rmse,mae,cv_rmse,model_path
+RandomForest,3840.142167849453,1036.5633654023006,119449.64923835678,./ml/pesticides\randomforest_model_20251024T104028Z.joblib
+GradientBoosting,10971.674733077274,6411.933312428056,118815.06214745768,./ml/pesticides\gradientboosting_model_20251024T104034Z.joblib

@@ -1,0 +1,16 @@
+[
+  {
+    "model": "RandomForest",
+    "rmse": 0.0,
+    "mae": 0.0,
+    "cv_rmse": -0.0,
+    "model_path": "ml\\plant_vase1_run\\randomforest_model_20251024T113048Z.joblib"
+  },
+  {
+    "model": "GradientBoosting",
+    "rmse": 0.0,
+    "mae": 0.0,
+    "cv_rmse": -0.0,
+    "model_path": "ml\\plant_vase1_run\\gradientboosting_model_20251024T113050Z.joblib"
+  }
+]

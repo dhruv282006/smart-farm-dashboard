@@ -1,0 +1,55 @@
+# Node
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# React build
+frontend/build/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+venv/*
+
+# VSCode
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data and ML artifacts (don't push large dataset or trained models/reports)
+backend/data/
+backend/ml/reports/
+backend/*.joblib
+*.joblib
+*.h5
+*.ckpt
+
+# Logs and temporary
+*.log
+tmp/
+
+# Optional: lock files for editors/IDEs
+/.idea/
+node_modules/
+frontend/node_modules/
+backend/yarn.lock
+frontend/build/
+**/__pycache__/
+*.pyc
+*.pkl
+*.joblib
+.env
+.vscode/
+.DS_Store

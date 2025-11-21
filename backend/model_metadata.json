@@ -1,0 +1,14 @@
+{
+  "model_name": "yield_model_v1_20251012T164258Z.joblib",
+  "created_at": "20251012T164258Z",
+  "metrics": {
+    "rmse": 0.18314111135042008,
+    "r2": 0.9106905325443778
+  },
+  "features": [
+    "rainfall",
+    "temperature",
+    "humidity"
+  ],
+  "notes": "Demo model \u2014 replace with real data for production."
+}

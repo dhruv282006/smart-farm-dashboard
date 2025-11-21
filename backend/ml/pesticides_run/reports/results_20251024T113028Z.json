@@ -1,0 +1,16 @@
+[
+  {
+    "model": "RandomForest",
+    "rmse": 3840.142167849453,
+    "mae": 1036.5633654023006,
+    "cv_rmse": 119449.64923835678,
+    "model_path": "ml\\pesticides_run\\randomforest_model_20251024T113024Z.joblib"
+  },
+  {
+    "model": "GradientBoosting",
+    "rmse": 10971.674733077274,
+    "mae": 6411.933312428056,
+    "cv_rmse": 118815.06214745768,
+    "model_path": "ml\\pesticides_run\\gradientboosting_model_20251024T113027Z.joblib"
+  }
+]

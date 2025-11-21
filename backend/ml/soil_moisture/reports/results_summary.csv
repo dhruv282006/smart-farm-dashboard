@@ -1,0 +1,3 @@
+model,rmse,mae,cv_rmse,model_path
+RandomForest,0.7872730290562556,0.33097279411764713,2.7991911557335163,./ml/soil_moisture\randomforest_model_20251024T104352Z.joblib
+GradientBoosting,0.8312599469026318,0.40701289735197377,2.6848751469501466,./ml/soil_moisture\gradientboosting_model_20251024T104427Z.joblib

@@ -1,0 +1,16 @@
+[
+  {
+    "model": "RandomForest",
+    "rmse": 0.0014880271607983708,
+    "mae": 0.0010016169654314183,
+    "cv_rmse": 0.004097708149656481,
+    "model_path": "d:\\smart-farm-dashboard\\backend\\ml\\soil_moisture_run\\randomforest_model_20251024T112100Z.joblib"
+  },
+  {
+    "model": "GradientBoosting",
+    "rmse": 0.0013459023991778912,
+    "mae": 0.0009254091966538841,
+    "cv_rmse": 0.0035250361811912543,
+    "model_path": "d:\\smart-farm-dashboard\\backend\\ml\\soil_moisture_run\\gradientboosting_model_20251024T112134Z.joblib"
+  }
+]
