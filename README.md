@@ -6,6 +6,8 @@ A demo Smart Farm dashboard with weather, area-aware agricultural insights, and 
 - Express backend that proxies weather APIs, synthesizes area suggestions, and computes agriculture insights
 - Small scikit-learn model training pipeline and a CLI prediction wrapper
 
+Smart Precision Agriculture system using ML to predict crop yield, analyze soil moisture, plant health, and pesticide impact. Includes a React + Node.js dashboard with real-time weather, zone-wise insights, and actionable recommendations for sustainable farming.
+
 This repository is a demo: replace synthetic datasets with historical, labeled agricultural data for production-ready models.
 
 ## Quickstart
